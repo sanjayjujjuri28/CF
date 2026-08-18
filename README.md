@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 3 |
+| 4 | 3 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (1)
+- [brute force](#brute-force) (2)
 - [implementation](#implementation) (3)
 - [strings](#strings) (2)
 
@@ -23,6 +23,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/sanjayjujjuri28/CF/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
+| 268A | [Games](https://codeforces.com/contest/268/problem/A) | 800 | [Java 21](https://github.com/sanjayjujjuri28/CF/blob/HEAD/268/A%20-%20Games/solution.java) |
 
 ### implementation
 
