@@ -6,14 +6,15 @@
 
 | Total Problems | Topics |
 |---|---|
-| 6 | 4 |
+| 7 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (2)
-- [implementation](#implementation) (5)
+- [greedy](#greedy) (1)
+- [implementation](#implementation) (6)
 - [number theory](#number-theory) (1)
 - [strings](#strings) (2)
 
@@ -26,6 +27,12 @@
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/sanjayjujjuri28/CF/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 | 268A | [Games](https://codeforces.com/contest/268/problem/A) | 800 | [Java 21](https://github.com/sanjayjujjuri28/CF/blob/HEAD/268/A%20-%20Games/solution.java) |
 
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [Java 21](https://github.com/sanjayjujjuri28/CF/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.java) |
+
 ### implementation
 
 | # | Problem | Difficulty | Solution |
@@ -33,6 +40,7 @@
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/sanjayjujjuri28/CF/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [Java 21](https://github.com/sanjayjujjuri28/CF/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.java) |
 | 313A | [Ilya and Bank Account](https://codeforces.com/contest/313/problem/A) | 900 | [Java 21](https://github.com/sanjayjujjuri28/CF/blob/HEAD/313/A%20-%20Ilya%20and%20Bank%20Account/solution.java) |
+| 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [Java 21](https://github.com/sanjayjujjuri28/CF/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.java) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [Java 21](https://github.com/sanjayjujjuri28/CF/blob/HEAD/520/A%20-%20Pangram/solution.java) |
 | 978A | [Remove Duplicates](https://codeforces.com/contest/978/problem/A) | 800 | [Java 21](https://github.com/sanjayjujjuri28/CF/blob/HEAD/978/A%20-%20Remove%20Duplicates/solution.java) |
 
