@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 7 | 5 |
+| 8 | 6 |
 
 ---
 
@@ -14,9 +14,10 @@
 
 - [brute force](#brute-force) (2)
 - [greedy](#greedy) (1)
-- [implementation](#implementation) (6)
+- [implementation](#implementation) (7)
 - [number theory](#number-theory) (1)
-- [strings](#strings) (2)
+- [sortings](#sortings) (1)
+- [strings](#strings) (3)
 
 ---
 
@@ -37,6 +38,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 141A | [Amusing Joke](https://codeforces.com/contest/141/problem/A) | 800 | [Java 21](https://github.com/sanjayjujjuri28/CF/blob/HEAD/141/A%20-%20Amusing%20Joke/solution.java) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/sanjayjujjuri28/CF/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [Java 21](https://github.com/sanjayjujjuri28/CF/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.java) |
 | 313A | [Ilya and Bank Account](https://codeforces.com/contest/313/problem/A) | 900 | [Java 21](https://github.com/sanjayjujjuri28/CF/blob/HEAD/313/A%20-%20Ilya%20and%20Bank%20Account/solution.java) |
@@ -50,10 +52,17 @@
 |---|---------|------------|----------|
 | 313A | [Ilya and Bank Account](https://codeforces.com/contest/313/problem/A) | 900 | [Java 21](https://github.com/sanjayjujjuri28/CF/blob/HEAD/313/A%20-%20Ilya%20and%20Bank%20Account/solution.java) |
 
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 141A | [Amusing Joke](https://codeforces.com/contest/141/problem/A) | 800 | [Java 21](https://github.com/sanjayjujjuri28/CF/blob/HEAD/141/A%20-%20Amusing%20Joke/solution.java) |
+
 ### strings
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 141A | [Amusing Joke](https://codeforces.com/contest/141/problem/A) | 800 | [Java 21](https://github.com/sanjayjujjuri28/CF/blob/HEAD/141/A%20-%20Amusing%20Joke/solution.java) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/sanjayjujjuri28/CF/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [Java 21](https://github.com/sanjayjujjuri28/CF/blob/HEAD/520/A%20-%20Pangram/solution.java) |
 
