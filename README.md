@@ -6,17 +6,20 @@
 
 | Total Problems | Topics |
 |---|---|
-| 9 | 7 |
+| 10 | 10 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (2)
-- [greedy](#greedy) (1)
-- [implementation](#implementation) (8)
-- [math](#math) (1)
+- [dfs and similar](#dfs-and-similar) (1)
+- [graphs](#graphs) (1)
+- [greedy](#greedy) (2)
+- [implementation](#implementation) (9)
+- [math](#math) (2)
 - [number theory](#number-theory) (1)
+- [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (1)
 - [strings](#strings) (3)
 
@@ -29,11 +32,24 @@
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/sanjayjujjuri28/CF/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 | 268A | [Games](https://codeforces.com/contest/268/problem/A) | 800 | [Java 21](https://github.com/sanjayjujjuri28/CF/blob/HEAD/268/A%20-%20Games/solution.java) |
 
+### dfs and similar
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 520B | [Two Buttons](https://codeforces.com/contest/520/problem/B) | 1400 | [Java 21](https://github.com/sanjayjujjuri28/CF/blob/HEAD/520/B%20-%20Two%20Buttons/solution.java) |
+
+### graphs
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 520B | [Two Buttons](https://codeforces.com/contest/520/problem/B) | 1400 | [Java 21](https://github.com/sanjayjujjuri28/CF/blob/HEAD/520/B%20-%20Two%20Buttons/solution.java) |
+
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [Java 21](https://github.com/sanjayjujjuri28/CF/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.java) |
+| 520B | [Two Buttons](https://codeforces.com/contest/520/problem/B) | 1400 | [Java 21](https://github.com/sanjayjujjuri28/CF/blob/HEAD/520/B%20-%20Two%20Buttons/solution.java) |
 
 ### implementation
 
@@ -46,6 +62,7 @@
 | 313A | [Ilya and Bank Account](https://codeforces.com/contest/313/problem/A) | 900 | [Java 21](https://github.com/sanjayjujjuri28/CF/blob/HEAD/313/A%20-%20Ilya%20and%20Bank%20Account/solution.java) |
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [Java 21](https://github.com/sanjayjujjuri28/CF/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.java) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [Java 21](https://github.com/sanjayjujjuri28/CF/blob/HEAD/520/A%20-%20Pangram/solution.java) |
+| 520B | [Two Buttons](https://codeforces.com/contest/520/problem/B) | 1400 | [Java 21](https://github.com/sanjayjujjuri28/CF/blob/HEAD/520/B%20-%20Two%20Buttons/solution.java) |
 | 978A | [Remove Duplicates](https://codeforces.com/contest/978/problem/A) | 800 | [Java 21](https://github.com/sanjayjujjuri28/CF/blob/HEAD/978/A%20-%20Remove%20Duplicates/solution.java) |
 
 ### math
@@ -53,12 +70,19 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 268B | [Buttons](https://codeforces.com/contest/268/problem/B) | 1000 | [Java 21](https://github.com/sanjayjujjuri28/CF/blob/HEAD/268/B%20-%20Buttons/solution.java) |
+| 520B | [Two Buttons](https://codeforces.com/contest/520/problem/B) | 1400 | [Java 21](https://github.com/sanjayjujjuri28/CF/blob/HEAD/520/B%20-%20Two%20Buttons/solution.java) |
 
 ### number theory
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 313A | [Ilya and Bank Account](https://codeforces.com/contest/313/problem/A) | 900 | [Java 21](https://github.com/sanjayjujjuri28/CF/blob/HEAD/313/A%20-%20Ilya%20and%20Bank%20Account/solution.java) |
+
+### shortest paths
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 520B | [Two Buttons](https://codeforces.com/contest/520/problem/B) | 1400 | [Java 21](https://github.com/sanjayjujjuri28/CF/blob/HEAD/520/B%20-%20Two%20Buttons/solution.java) |
 
 ### sortings
 
