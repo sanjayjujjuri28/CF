@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 12 | 12 |
+| 13 | 12 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (2)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (11)
+- [implementation](#implementation) (12)
 - [math](#math) (2)
 - [number theory](#number-theory) (1)
 - [shortest paths](#shortest-paths) (1)
@@ -79,6 +79,7 @@
 | 499B | [Lecture](https://codeforces.com/contest/499/problem/B) | 1000 | [Java 21](https://github.com/sanjayjujjuri28/CF/blob/HEAD/499/B%20-%20Lecture/solution.java) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [Java 21](https://github.com/sanjayjujjuri28/CF/blob/HEAD/520/A%20-%20Pangram/solution.java) |
 | 520B | [Two Buttons](https://codeforces.com/contest/520/problem/B) | 1400 | [Java 21](https://github.com/sanjayjujjuri28/CF/blob/HEAD/520/B%20-%20Two%20Buttons/solution.java) |
+| 540A | [Combination Lock](https://codeforces.com/contest/540/problem/A) | 800 | [Java 21](https://github.com/sanjayjujjuri28/CF/blob/HEAD/540/A%20-%20Combination%20Lock/solution.java) |
 | 978A | [Remove Duplicates](https://codeforces.com/contest/978/problem/A) | 800 | [Java 21](https://github.com/sanjayjujjuri28/CF/blob/HEAD/978/A%20-%20Remove%20Duplicates/solution.java) |
 
 ### math
