@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 11 | 12 |
+| 12 | 12 |
 
 ---
 
@@ -18,12 +18,12 @@
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (2)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (10)
+- [implementation](#implementation) (11)
 - [math](#math) (2)
 - [number theory](#number-theory) (1)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (1)
-- [strings](#strings) (3)
+- [strings](#strings) (4)
 
 ---
 
@@ -76,6 +76,7 @@
 | 268B | [Buttons](https://codeforces.com/contest/268/problem/B) | 1000 | [Java 21](https://github.com/sanjayjujjuri28/CF/blob/HEAD/268/B%20-%20Buttons/solution.java) |
 | 313A | [Ilya and Bank Account](https://codeforces.com/contest/313/problem/A) | 900 | [Java 21](https://github.com/sanjayjujjuri28/CF/blob/HEAD/313/A%20-%20Ilya%20and%20Bank%20Account/solution.java) |
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [Java 21](https://github.com/sanjayjujjuri28/CF/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.java) |
+| 499B | [Lecture](https://codeforces.com/contest/499/problem/B) | 1000 | [Java 21](https://github.com/sanjayjujjuri28/CF/blob/HEAD/499/B%20-%20Lecture/solution.java) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [Java 21](https://github.com/sanjayjujjuri28/CF/blob/HEAD/520/A%20-%20Pangram/solution.java) |
 | 520B | [Two Buttons](https://codeforces.com/contest/520/problem/B) | 1400 | [Java 21](https://github.com/sanjayjujjuri28/CF/blob/HEAD/520/B%20-%20Two%20Buttons/solution.java) |
 | 978A | [Remove Duplicates](https://codeforces.com/contest/978/problem/A) | 800 | [Java 21](https://github.com/sanjayjujjuri28/CF/blob/HEAD/978/A%20-%20Remove%20Duplicates/solution.java) |
@@ -111,6 +112,7 @@
 |---|---------|------------|----------|
 | 141A | [Amusing Joke](https://codeforces.com/contest/141/problem/A) | 800 | [Java 21](https://github.com/sanjayjujjuri28/CF/blob/HEAD/141/A%20-%20Amusing%20Joke/solution.java) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/sanjayjujjuri28/CF/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
+| 499B | [Lecture](https://codeforces.com/contest/499/problem/B) | 1000 | [Java 21](https://github.com/sanjayjujjuri28/CF/blob/HEAD/499/B%20-%20Lecture/solution.java) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [Java 21](https://github.com/sanjayjujjuri28/CF/blob/HEAD/520/A%20-%20Pangram/solution.java) |
 
 ---
